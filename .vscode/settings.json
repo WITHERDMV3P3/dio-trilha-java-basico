@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "Tipos-de-variaveis/src",
+        "SmartTV/src",
+        "SmartTV_Projeto/src"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
